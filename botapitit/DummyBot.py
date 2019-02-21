@@ -1,6 +1,6 @@
-from bot_apitit.Bot import Bot
-from bot_apitit.Message import IncomingMessage
-from bot_apitit.User import User
+from botapitit.Bot import Bot
+from botapitit.Message import IncomingMessage
+from botapitit.User import User
 
 
 class DummyBot(Bot):

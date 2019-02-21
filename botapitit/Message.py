@@ -1,5 +1,5 @@
-from bot_apitit.User import User
-from bot_apitit.Chat import Chat
+from botapitit.User import User
+from botapitit.Chat import Chat
 
 
 class Message(object):

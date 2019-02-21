@@ -2,4 +2,4 @@
 venv/*
 Playground/*
 test.py
-bot_apitit/__pycache__/*
+botapitit/__pycache__/*

@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
-from bot_apitit.Message import Message
-from bot_apitit.Handlers import Handler
+from botapitit.Message import Message
+from botapitit.Handlers import Handler
 
 
 class Bot(ABC):
