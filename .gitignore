@@ -1,0 +1,5 @@
+.idea/*
+venv/*
+Playground/*
+test.py
+bot_apitit/__pycache__/*
